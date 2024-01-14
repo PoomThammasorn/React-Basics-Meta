@@ -1,0 +1,31 @@
+.btn {
+	background-color: #4caf50;
+	border: none;
+	color: white;
+	padding: 10px 20px;
+	text-align: center;
+	text-decoration: none;
+	display: inline-block;
+	font-size: 16px;
+}
+
+.btn:hover {
+	background-color: #45a049;
+	cursor: pointer;
+}
+
+.btnClicked {
+	background-color: #cd1313;
+	border: none;
+	color: white;
+	padding: 10px 20px;
+	text-align: center;
+	text-decoration: none;
+	display: inline-block;
+	font-size: 16px;
+}
+
+.btnClicked:hover {
+	background-color: #df3e3e;
+	cursor: pointer;
+}
